@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*hi guys*
+**how are you**
+_i like cats_
+***do u too?***
+despite me liking **cats,**
+*i dont have one myself :(*

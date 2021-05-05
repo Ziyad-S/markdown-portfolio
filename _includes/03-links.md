@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+### ok so cat!!!!!!!!!!!!!!!!!!!!!!!!
+#### I like cats :) 
+[stuff about cats!!!!!!!!!!!](https://en.wikipedia.org/wiki/Cat)
